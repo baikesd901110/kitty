@@ -1,2 +1,2 @@
-# kitty
-my first github demo
+# hello kitty
+This is my first github demo.
